@@ -1,4 +1,4 @@
-token = "78a6fc20-fa83-11e9-a4ad-d1866a9a3c7b" # add your token here
+token = "5241964759:AAHkHOSNmsA2Ge6hka2YwHC_JNY3PwyRFbI" # add your token here
 url = "<base-api-url>/api/posts"
 try:
     payload = d
